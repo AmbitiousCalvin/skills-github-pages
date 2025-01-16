@@ -1,3 +1,8 @@
+---
+title:  "Reflecting on My First Big React Project: The Photo App"
+date: 2025-16-01
+---
+
 # Reflecting on My First Big React Project: The Photo App
 
 ## Introduction
